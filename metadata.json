@@ -1,0 +1,6 @@
+{
+  "name": "RoboDino Run",
+  "description": "An endless runner featuring transforming dinosaurs and fast-paced gameplay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+  --animate-grid-move: grid-move 2s linear infinite;
+  @keyframes grid-move {
+    0% { transform: rotateX(75deg) translateY(0); }
+    100% { transform: rotateX(75deg) translateY(50px); }
+  }
+}
