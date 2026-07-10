@@ -1,0 +1,77 @@
+{
+  "character": "Hero",
+  "skeleton": "Humanoid",
+  "fps": 30,
+  "animations": [
+    {
+      "name": "Running",
+      "category": "Movement",
+      "fps": 30,
+      "startFrame": 0,
+      "endFrame": 19,
+      "startTime": 0,
+      "endTime": 0.633,
+      "loop": true
+    },
+    {
+      "name": "Big Hit To Head",
+      "category": "Combat",
+      "fps": 30,
+      "startFrame": 19,
+      "endFrame": 68,
+      "startTime": 0.634,
+      "endTime": 2.268,
+      "loop": true
+    },
+    {
+      "name": "Flying",
+      "category": "Custom",
+      "fps": 30,
+      "startFrame": 68,
+      "endFrame": 113,
+      "startTime": 2.269,
+      "endTime": 3.769,
+      "loop": true
+    },
+    {
+      "name": "Hit On Side Of Body",
+      "category": "Combat",
+      "fps": 30,
+      "startFrame": 113,
+      "endFrame": 196,
+      "startTime": 3.77,
+      "endTime": 6.536,
+      "loop": true
+    },
+    {
+      "name": "Hit On The Back",
+      "category": "Combat",
+      "fps": 30,
+      "startFrame": 196,
+      "endFrame": 271,
+      "startTime": 6.537,
+      "endTime": 9.037,
+      "loop": true
+    },
+    {
+      "name": "Running Forward Flip",
+      "category": "Movement",
+      "fps": 30,
+      "startFrame": 271,
+      "endFrame": 304,
+      "startTime": 9.038,
+      "endTime": 10.138,
+      "loop": true
+    },
+    {
+      "name": "Unarmed Jump Running",
+      "category": "Movement",
+      "fps": 30,
+      "startFrame": 304,
+      "endFrame": 346,
+      "startTime": 10.139,
+      "endTime": 11.539,
+      "loop": true
+    }
+  ]
+}
